@@ -10,7 +10,7 @@
 
 <br/>
 
-<details>
+<details open>
 
 <summary>&nbsp;<b>교육과정</b></summary>
 <br />
@@ -22,12 +22,12 @@
 
 <br/>
 
-<details>
+<details open>
 
 <summary>&nbsp;<b>프로젝트</b></summary>
 <br />
 
-<b>팀 프로젝트</b>
+> <b>팀 프로젝트</b>
 
 <li><a href="https://github.com/leesoonjae/Proj_newsfeed">Newsfeed</a> <sub>(2022.11)</sub></li>
 <li><a href="https://github.com/leesoonjae/calendar-pj">Calendar</a> <sub>(2022.12.22 ~ 2022.12.27)</sub></li>
@@ -38,7 +38,17 @@
 
 <br />
 
-<b>개인 프로젝트</b>
+> <b>개인 프로젝트</b>
 
 <li><a href="https://github.com/leesoonjae/react-coin">Coin</a> <sub>(2023.02)</sub></li>
 <li><a href="https://github.com/leesoonjae/Java-library">Ribrary</a> <sub>(2023.03)</sub></li>
+
+</details>
+
+
+<br />
+
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=leesoonjaes&show_icons=true&theme=dark" />
