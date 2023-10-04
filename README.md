@@ -24,7 +24,7 @@
 
 <details>
 
-<summary>&nbsp;<b>프로젝트/b></summary>
+<summary>&nbsp;<b>프로젝트</b></summary>
 <br />
 
 <b>팀 프로젝트</b>
