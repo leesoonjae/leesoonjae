@@ -51,4 +51,4 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=leesoonjaes&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=leesoonjae&show_icons=true&theme=dark" />
