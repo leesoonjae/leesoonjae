@@ -41,7 +41,7 @@
 > <b>개인 프로젝트</b>
 
 <li><a href="https://github.com/leesoonjae/react-coin">Coin</a> <sub>(2023.02)</sub></li>
-<li><a href="https://github.com/leesoonjae/Java-library">Ribrary</a> <sub>(2023.03)</sub></li>
+<li><a href="https://github.com/leesoonjae/Java-library">Library</a> <sub>(2023.03)</sub></li>
 
 </details>
 
