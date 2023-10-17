@@ -28,7 +28,7 @@
 <br />
 
 > <b>팀 프로젝트</b>
-https://github.com/leesoonjae/weather
+
 <li><a href="https://github.com/leesoonjae/calendar-pj">Calendar</a> <sub>(2022.12)</sub></li>
 <li><a href="https://github.com/leesoonjae/bolam3">READ ME</a> <sub>(2023.01)</sub></li>
 <li><a href="https://github.com/leesoonjae/weather">도란도란</a> <sub>(2023.10 ~)</sub></li>
